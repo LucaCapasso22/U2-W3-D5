@@ -1,0 +1,25 @@
+body {
+  background-image: url(https://scontent.fnap6-1.fna.fbcdn.net/v/t39.30808-6/301378022_480814484051752_1078095375513008126_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=swvqCySCbv0Q7kNvgE8X65g&_nc_zt=23&_nc_ht=scontent.fnap6-1.fna&_nc_gid=At_lKzSvdP7FMAmhwIhkg5M&oh=00_AYAaErfH2Flhuz2Bv4kwExC75rGHAGKaRuMiD-GxB1nzMQ&oe=673D3239);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+nav {
+  height: 120px;
+  font-size: 40px;
+  display: flex;
+  background-color: white;
+  border-bottom: 1px solid black;
+}
+
+main {
+  background-color: white;
+  width: 70%;
+  height: 100%;
+  margin: auto;
+  margin-top: 50px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border-radius: 50px;
+}
